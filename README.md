@@ -26,19 +26,43 @@
 - 🎨 Completed **50+ Designs in Canva**
 - 👥 360+ followers on **LinkedIn**
 - 💡 Selected for an ML internship at **MicroIT**
-  
+
 ---
 
 ### 🧰 Tech Stack & Tools
 
-```bash
-Languages:  C, HTML, Python (ML)
-Tools:      Git & GitHub, Canva, VS Code, Arduino IDE, Blynk
-Projects:   IoT Prototyping, ML Classifiers, File Handling in C, UI Design
-Soft Skills: Creativity, Focus, Leadership, Curiosity, Communication
+- **Languages:** C, HTML, Python (ML)
+- **Tools:** Git & GitHub, Canva, VS Code, Arduino IDE, Blynk
+- **Projects:** IoT Prototyping, ML Classifiers, File Handling in C, UI Design
+- **Soft Skills:** Creativity, Focus, Leadership, Curiosity, Communication
+
+---
+
+### 📂 Pinned Projects
+
+- 🔹 [Student Grade Management System](https://github.com/Ram-dwarampudi)
+- 🔹 [Library Management in C using File Handling](https://github.com/Ram-dwarampudi)
+- 🔹 [Smart Fire Detection using Arduino](https://github.com/Ram-dwarampudi)
+- 🔹 [HTML Calculator UI](https://github.com/Ram-dwarampudi)
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ram-dwarampudi&show_icons=true&theme=tokyonight" alt="Ram's GitHub stats" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ram-dwarampudi&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+---
 
 ### 📫 Connect with Me
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/ram-dwarampudi)
 - 💼 [GitHub](https://github.com/Ram-dwarampudi)
 - 🎯 Always open to learning, internships, and collaborations!
+
+---
+
+> “Stay Curious. Build. Fail Fast. Learn Faster.” 🚀
