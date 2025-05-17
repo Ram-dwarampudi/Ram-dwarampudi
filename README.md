@@ -37,4 +37,3 @@ Tools:      Git & GitHub, Canva, VS Code, Arduino IDE, Blynk
 Projects:   IoT Prototyping, ML Classifiers, File Handling in C, UI Design
 Soft Skills: Creativity, Focus, Leadership, Curiosity, Communication
 
----
