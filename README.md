@@ -26,7 +26,7 @@
 - 🎨 Completed **50+ Designs in Canva**
 - 👥 360+ followers on **LinkedIn**
 - 💡 Selected for an ML internship at **MicroIT**
-
+  
 ---
 
 ### 🧰 Tech Stack & Tools
@@ -36,7 +36,6 @@ Languages:  C, HTML, Python (ML)
 Tools:      Git & GitHub, Canva, VS Code, Arduino IDE, Blynk
 Projects:   IoT Prototyping, ML Classifiers, File Handling in C, UI Design
 Soft Skills: Creativity, Focus, Leadership, Curiosity, Communication
-
 
 ---
 
