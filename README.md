@@ -59,7 +59,7 @@
 
 ### 📫 Connect with Me
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/ram-dwarampudi)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/ram-dwarampudi-7a7a12316/)
 - 💼 [GitHub](https://github.com/Ram-dwarampudi)
 - 🎯 Always open to learning, internships, and collaborations!
 
