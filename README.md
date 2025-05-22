@@ -27,6 +27,8 @@
 - 👥 360+ followers on **LinkedIn**
 - 💡 Selected for an ML internship at **MicroIT**
 
+
+
 ---
 
 ### 🧰 Tech Stack & Tools
